@@ -1,9 +1,9 @@
 ### Hi there 👋
-- 🎮 Cursando Jogos Digitais;
-- 💻 Aprendendo front-end;
-- 🎂 20 Anos;
-- 🎨 Designer nas horas vagas;
-- 😄 Ele/Dele.
+- 🎮  Cursando Jogos Digitais;
+- 💻  Aprendendo front-end;
+- 🎂  20 Anos;
+- 🎨  Designer nas horas vagas;
+- 😄  Ele/Dele.
 
 ##
 <div align="center">
