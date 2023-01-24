@@ -3,7 +3,6 @@
 - 💻  Aprendendo front-end;
 - 🎂  20 Anos;
 - 🎨  Designer nas horas vagas;
-- 😄  Ele/Dele.
 
 ##
 <div align="center">
